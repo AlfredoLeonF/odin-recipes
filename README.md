@@ -8,10 +8,10 @@ Among the concepts acquired are:
 
 * HTML
     * HTML Structure
-    * Encabezados
-    * Parrafos
-    * Listas
-    * Imagenes
+    * Headings
+    * Paragraphs
+    * Lists
+    * Images
     * Links
 
 * GIT
